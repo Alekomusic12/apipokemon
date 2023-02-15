@@ -1,0 +1,20 @@
+.colorFondo {
+    
+    width: 200px;
+    background-color: black;
+}
+.pokemon-card {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px gray;
+    width: 200px;
+    background-color: black;
+  }
+  .pokemon-image {
+    width: 120px;
+    height: 120px;
+  }
